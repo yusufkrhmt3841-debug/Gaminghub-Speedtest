@@ -1,0 +1,13 @@
+{
+  "name": "gaminghub-speedtest",
+  "version": "1.0.0",
+  "description": "Gaming Hub Speedtest API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@speedmeter/cli": "^2.1.0",
+    "express": "^4.19.2"
+  }
+}
